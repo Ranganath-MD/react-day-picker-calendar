@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Crete+Round&display=swap');
+
+
+body{
+  background-color:#e0e7eb;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Crete Round', serif;
+}
+.container{
+  border-radius: 20px;
+  background: #e0e7eb;
+  box-shadow:  20px 20px 60px #bec4c8, 
+             -20px -20px 60px #ffffff;
+}
+.container h1{
+  text-align: center;
+  padding: 10px;
+}
+
+.header{
+  height: 100px;
+  padding: 0px 25px;
+}
